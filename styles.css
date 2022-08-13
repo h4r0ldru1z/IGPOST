@@ -1,0 +1,68 @@
+body{
+    background-color: black;
+    font-family: Roboto;
+}
+.fa-brands{
+    padding: 10px;
+}
+div{
+    background: white;
+}
+.title{
+padding-top: 12px;
+width: 500px;
+}
+.fa-solid {
+    padding: 10px;
+}
+div.dots{
+    float: right;
+}
+div.header{
+    display: flex;
+   align-content: space-between;
+   margin: auto;
+   gap: 0 px 50px;
+   
+}
+
+div{
+    box-sizing: border-box; 
+}
+div.post{
+    background-color: white;
+}
+img{
+    width: 100%;
+}
+div.container{
+    width: 550px;
+    height: 650px;
+    margin: auto;
+    margin-top: 30px;
+}
+div.icons-bottom{
+    display: flex;
+    flex-direction: row;  
+
+}
+div.last{
+   position: relative;
+   left: 25em;
+}
+p{
+    text-align:justify;
+    margin: auto;
+   border-top: 10px;
+}
+div.bottom{
+
+    box-sizing: content-box;
+}
+.fa-regular{
+    font-size: 25px;
+    padding: 5px;
+}
+.parrafo{
+    padding: 15px;
+}
